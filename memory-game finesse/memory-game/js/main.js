@@ -34,7 +34,7 @@
 //cards[i].addEventListener("click", displayCard);
 //};
 //displayCard is a function we'll talk about this soon
-let cards = ["images/download.png", "images/download.png", "images/karp.png", "images/karp.png", "images/mudkip.png", "images/mudkip.png", "images/pichu.png", "images/pichu.png", "images/puff.png", "images/puff.png", "images/shrew.png", "images/shrew.png"]
+let cards = ["images/download.png", "images/download.png", "images/karp.png", "images/karp.png", "images/mudkip.png", "images/mudkip.png", "images/pichu.png", "images/pichu.png", "images/puff.png", "images/puff.png", "images/shrew.png", "images/shrew.png", "images/star.png","images/star.png","images/chu.png","images/chu.png","images/download (2).png","images/download (2).png","images/download (1).png","images/download (1).png",]
 let arr =[]
 let node = document.querySelectorAll('.grid')
 knuthShuffle(cards, 12)
